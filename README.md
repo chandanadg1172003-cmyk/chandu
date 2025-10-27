@@ -34,3 +34,11 @@ How It Works
    - `=` evaluates the expression using `eval()` safely.
    - `C` clears the entire input.
    - `DEL` removes the last entered character.
+  
+![sub](https://github.com/user-attachments/assets/08bfe7d4-388c-4575-b631-29253e7e2b91)
+![multi](https://github.com/user-attachments/assets/5c12a6e2-e83b-4386-92f3-805c76d4b5a5)
+![div](https://github.com/user-attachments/assets/010080d6-cca7-4381-aff7-b28b5845eb8e)
+![Add](https://github.com/user-attachments/assets/3936d0e8-507d-46d7-8d82-a865393d0d88)
+<img width="40" height="40" alt="W2MDyeo0zkf" src="https://github.com/user-attachments/assets/2259d2e4-b05a-4baf-8dfb-185fc1433a55" />
+
+
